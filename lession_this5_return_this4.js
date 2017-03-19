@@ -39,6 +39,9 @@ function usesThis3(name) {
     this.myName = name;
 
     return this;
+    // 构造函数默认就是 return this 的
+    //     参见 https://github.com/TooBug/javascript.patterns/blob/master/chapter3.markdown
+    //     #自定义构造函数
 }
 
 
