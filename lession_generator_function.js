@@ -6,7 +6,7 @@
 
  无 '*' 号，yeild 关键字无法使用
  无 yeild ，用 return 代替，继续 next() 结果变化
- { value: 1, done: false } { value: 2, done: false } { value: undefined, done: true }
+       { value: 1, done: false } { value: 2, done: false } { value: undefined, done: true }
  ->    { value: 1, done: true } { value: undefined, done: true }
 
  */
