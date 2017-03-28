@@ -1,4 +1,4 @@
-
+﻿
 
 /*
  Ref : https://github.com/TooBug/javascript.patterns/blob/master/chapter3.markdown

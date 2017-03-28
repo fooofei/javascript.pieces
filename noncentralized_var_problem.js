@@ -1,4 +1,4 @@
-
+﻿
 
 /*
  ref : https://github.com/lxj/javascript.patterns/blob/master/chapter2.markdown

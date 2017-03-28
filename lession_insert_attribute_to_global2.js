@@ -1,4 +1,4 @@
-
+﻿
 
 
 var insert_global_attribute = function () {

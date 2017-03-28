@@ -1,4 +1,4 @@
-
+﻿
 var a = new String('hello');
 
 a.smile = true;

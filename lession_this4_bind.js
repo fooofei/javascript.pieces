@@ -1,4 +1,4 @@
-
+﻿
 assert = require('assert');
 
 var person = {
